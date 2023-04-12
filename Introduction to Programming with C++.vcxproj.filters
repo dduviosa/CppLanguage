@@ -28,6 +28,21 @@
     <Filter Include="소스 파일\Chapter_2\List">
       <UniqueIdentifier>{e9f180c0-5184-4586-947a-cc4c18c9d11d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter_3">
+      <UniqueIdentifier>{48026973-11e4-4e65-be99-b62555fe96e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter_3\List">
+      <UniqueIdentifier>{55d60433-74ba-493e-b01c-93247f1caaad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter_4">
+      <UniqueIdentifier>{e7d12332-c011-49cb-8029-9f501450d2fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter_4\List">
+      <UniqueIdentifier>{fabe548b-b465-4e0b-8a6e-a8da75c45650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter_3\exercise">
+      <UniqueIdentifier>{c4abf901-1a4c-4f49-80fc-3cee54a268c2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.1.cpp">
@@ -170,6 +185,117 @@
     </ClCompile>
     <ClCompile Include="2.23.cpp">
       <Filter>소스 파일\Chapter_2\Exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8_list.cpp">
+      <Filter>소스 파일\Chapter_3\List</Filter>
+    </ClCompile>
+    <ClCompile Include="4.10_list.cpp">
+      <Filter>소스 파일\Chapter_4\List</Filter>
+    </ClCompile>
+    <ClCompile Include="4.9_list.cpp">
+      <Filter>소스 파일\Chapter_4\List</Filter>
+    </ClCompile>
+    <ClCompile Include="4.7_list.cpp">
+      <Filter>소스 파일\Chapter_4\List</Filter>
+    </ClCompile>
+    <ClCompile Include="4.8_list.cpp">
+      <Filter>소스 파일\Chapter_4\List</Filter>
+    </ClCompile>
+    <ClCompile Include="4.6_list.cpp">
+      <Filter>소스 파일\Chapter_4\List</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.3.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.5.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.7.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.8.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.9.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.10.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.11.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.12.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.13.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.14.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.15.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.16.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.17.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.18.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.19.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.20.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.21.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.22.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.23.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.24.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="3.25.cpp">
+      <Filter>소스 파일\Chapter_3\exercise</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
